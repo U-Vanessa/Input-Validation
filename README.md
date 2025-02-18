@@ -36,6 +36,10 @@ Each screen includes validation rules for user input and allows seamless navigat
    ```sh
    flutter run
    ```
+5. Run the application on the video:
+   ```video link
+   https://drive.google.com/file/d/1G4HyAjaJJLGPhGiMHUXwpvaMc-9hu4MA/view?usp=sharing
+   ```
 
 ## Screens
 ### Personal Info Screen
