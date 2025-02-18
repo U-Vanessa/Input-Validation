@@ -1,3 +1,4 @@
+# Input-Validation
 # Multi-Screen Form Validation in Flutter
 
 ## Overview
@@ -22,7 +23,7 @@ Each screen includes validation rules for user input and allows seamless navigat
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/vpendo/Input_Validation.git   ```
+   git clone https://github.com/U-Vanessa/Input-Validation.git   ```
 2. Navigate to the project directory:
    ```sh
    cd Input_Validation
@@ -60,6 +61,7 @@ Contributions are welcome! Feel free to submit a pull request or report issues.
 This project is licensed under the MIT License.
 
 ## Contact
-For any inquiries, contact (v.pendo@alustudent.com).
+For any inquiries, contact (v.uwonkunda@alustudent.com).
+
 
 
